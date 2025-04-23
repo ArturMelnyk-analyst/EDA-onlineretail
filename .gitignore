@@ -1,0 +1,15 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data and dashboards
+*.xlsx
+*.twbx
+
+# System files
+.DS_Store
+Thumbs.db
+
