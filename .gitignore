@@ -5,8 +5,13 @@
 __pycache__/
 *.py[cod]
 
-# Data and dashboards
+# Ignore all Excel files by default
 *.xlsx
+
+# But allow the cleaned file for Tableau
+!data/For_Tableau_online_retail_II.xlsx
+
+# Tableau files
 *.twbx
 
 # System files
