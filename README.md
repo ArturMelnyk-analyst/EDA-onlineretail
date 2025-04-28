@@ -55,7 +55,8 @@ The project focuses on:
 ## 📈 Dashboards Preview
 
 ### 📌 Sales Performance Dashboard
-![Sales Performance Dashboard](images/sales_performance_dashboard.png)
+![Sales Performance Dashboard](images/Sales_Performance_Dashboard.png)
+
 
 **Highlights:**
 - Best-selling products by volume
@@ -66,7 +67,7 @@ The project focuses on:
 ---
 
 ### 📌 Customers & Products Return Dashboard
-![Customers and Products Return Dashboard](images/customers_products_return_dashboard.png)
+![Customers and Products Return Dashboard](images/Customers_and_Products_Return_Dashboard.png)
 
 **Highlights:**
 - Top returning customers
