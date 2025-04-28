@@ -13,6 +13,7 @@ __pycache__/
 
 # Tableau files
 *.twbx
+!dashboards/EDA_visualization.twbx  # Allow the final cleaned Tableau dashboard
 
 # System files
 .DS_Store
