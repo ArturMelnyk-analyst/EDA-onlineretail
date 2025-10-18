@@ -132,7 +132,7 @@ jupyter notebook
 
 📚 Documentation
 📄 Full technical report available here: docs/Online_Retail_EDA_Technical_Documentation.pdf
-
+📄 Presentation→ [docs/Online_Retail_EDA_Presentation.pdf](docs/Online_Retail_EDA_Presentation.pdf)
 📜 License
 Distributed under the MIT License.
 See LICENSE for more information.
